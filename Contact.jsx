@@ -1,7 +1,7 @@
 import { Instagram } from 'lucide-react'
 import { INSTAGRAM } from '../config'
 import WhatsAppButton from './WhatsAppButton'
-
+import WhatsAppButton from '.https://we.me:63981253078
 export default function Contact() {
   return (
     <section id="contato" className="bg-black px-4 py-16 text-white">
